@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "28ab19bca025298c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7d7e4b84eb73f1a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Second Brain.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d287ab87918e875",
+    "type": "split",
+    "children": [
+      {
+        "id": "449d0b9ca47eb0f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19dc5b0d04173fe8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0dda636ecff784f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 204
+  },
+  "right": {
+    "id": "53d8b571ae0734a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "58e45bbc60642ca0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "125bef7905eaea52",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Second Brain.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d7d7e4b84eb73f1a",
+  "lastOpenFiles": [
+    "Second Brain.md"
+  ]
+}
